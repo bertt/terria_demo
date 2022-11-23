@@ -1,0 +1,16 @@
+{
+    "homeCamera": {
+      "north": 54,
+      "east": 11,
+      "south": 50,
+      "west": 0
+    },
+    "catalog": [
+      {
+            "type": "3d-tiles",
+            "name": "Kadaster 3D - Panden",
+            "url": "https://storage.googleapis.com/ahp-research/maquette/kadaster/gebouwen/25gn1/tileset.json",
+            "id": "panden"
+      }
+    ]
+}
